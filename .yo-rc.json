@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.terabiz.admin"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "gateway",
+    "baseName": "admin",
+    "packageName": "com.terabiz.admin",
+    "packageFolder": "com/terabiz/admin",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjA0OWVjOTk5M2JlYjgzOThmMmU2YTUwMjNlMzQ5NzM4NDg4NzQ1YWIxN2NlYTAzYzA0YzEzM2RmOGI5MWFkOTY4MmRjNTlmNGE3MGVkODM3ZmRlOGMxNTFjMDAwMzIwZThjYjBjNjAzOGYwZGI3ZDA0YWQzZGQ0Y2RkOTQxNzE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1580729878733,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
